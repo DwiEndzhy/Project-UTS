@@ -1,6 +1,9 @@
 ### Project UTS
 Pemrograman Berbasis Mobile
 
+#### Build APK
+Folder : ```Build_APK\Pinjaman Online.apk```
+
 #### UI Aplikasi
 - SplashScreen dan HomeScreen
 
